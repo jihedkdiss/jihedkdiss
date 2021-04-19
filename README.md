@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 This is Jihed Kdiss</h1>
-<h3 align="center">A young Robotics Ethusiast, Competitive Programmer and Graphic Designer from Tunisia 🇹🇳</h3>
+<h3 align="center">A young Robotics Enthusiast, Competitive Programmer and Graphic Designer from Tunisia 🇹🇳</h3>
 
 - 🔭 I’m currently working on [Sharing Knowledge](https://facebook.com/thisisjihedkdiss)
 
