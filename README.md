@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋 This is Jihed Kdiss</h1>
 <h3 align="center">A young Robotics Ethusiast, Competitive Programmer and Graphic Designer from Tunisia 🇹🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihedkdiss&label=Profile%20views&color=0e75b6&style=flat" alt="jihedkdiss" /> </p>
-
 - 🔭 I’m currently working on [Sharing Knowledge](https://facebook.com/thisisjihedkdiss)
 
 - 🌱 I’m currently learning **Penetration Testing**
