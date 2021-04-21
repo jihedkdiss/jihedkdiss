@@ -11,6 +11,6 @@
 
 - 💬 Ask me about **Competitive Programming**
 
-- 📫 How to reach me **m.me/thisisjihedkdiss**
+- 📫 Find me on [Messenger](https://m.me/thisisjihedkdiss)
 
 - ⚡ Fun fact **I prefer philosophy over Coding**
