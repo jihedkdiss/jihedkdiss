@@ -13,4 +13,4 @@
 
 - 📫 Find me on [Messenger](https://m.me/thisisjihedkdiss)
 
-- ⚡ Fun fact **I love Philosophy more than Coding**
+- ⚡ Fun fact: **I love Philosophy**
