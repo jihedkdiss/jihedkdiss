@@ -14,3 +14,5 @@
 - 📫 Find me on [My Portfolio Website](https://jihedkdiss.ml)
 
 - ⚡ Fun fact: **I love Philosophy & Art!**
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31ryumjceqqilafdojhmashnl2py&count=1)
