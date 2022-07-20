@@ -16,3 +16,5 @@
 - ⚡ Fun fact: **I love Philosophy & Art!**
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31ryumjceqqilafdojhmashnl2py&count=1)
+
+<img src="https://komarev.com/ghpvc/?username=jihedkdiss&style=for-the-badge">
