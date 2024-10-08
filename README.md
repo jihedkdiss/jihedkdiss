@@ -1,6 +1,6 @@
 ### Welcome! It's a pleasure to see you here. 🤩
 
-![Jihed Kdiss](https://i.ibb.co/7JwL6gp/1690108974486.jpg)
+![Jihed Kdiss](https://i.ibb.co/2nQSdYB/1728431201708.jpg)
 
 I'm **Jihed Kdiss**, a 20-year-old technology enthusiast from **Tunisia** 🇹🇳. My journey in the world of technology began at a young age, and over the past decade, I've explored various facets of Computer Science. I started with Graphic Design, ventured into Robotics, and honed my skills in Software Development and Cyber Security 😃.
 
