@@ -10,5 +10,5 @@ If you're interested in collaboration, freelance opportunities, or just want to 
 
 <div align="center">
   <p><strong>Wishing you a wonderful day! 💕</strong></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jihedkdiss&border_radius=12" alt="GitHub Streak Stats">
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=jihedkdiss&border_radius=12" alt="GitHub Streak Stats">-->
 </div>
