@@ -4,4 +4,4 @@
 
 💼 Previously, I was a **Cybersecurity Instructor** at [Internews](https://internews.org). I also teach programming and hacking at [Blade Club](https://www.facebook.com/bladeclub.tn).
 
-🏫 I am studying Cybersecurity at [TEK-UP University](https://www.linkedin.com/school/tek-up-university), where I focus on topics such as computer architecture, algorithms, and my favorite: low-level programming.
+🏫 I am currently studying Cybersecurity at [TEK-UP University](https://www.linkedin.com/school/tek-up-university), where I focus on topics such as computer architecture, algorithms, and my favorite: low-level programming.
